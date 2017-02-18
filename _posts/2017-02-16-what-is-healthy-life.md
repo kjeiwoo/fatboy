@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "무엇이 건강한 삶인가"
-excerpt: "    "
+title: "지금 내가 해야할 것, 준비?"
+excerpt: "지금까지, 거의 40년간 준비만 해온 인생"
 categories: [paragraph, feature photo]
 author: fatboy
 comments: true
@@ -10,38 +10,33 @@ image:
 ---
 
 
-## 행복한 삶, 건강한 삶
+# 지금 내가 해야할 것, 준비?
+## 지금까지, 거의 40년간 준비만 해온 인생
+그렇지 않은가? 지금까지 나와 내 친구들의 삶을 돌아보면 여전히 신발 끈을 단단히, 정성스레 묶고 뛰쳐나갈 준비만 하고 있지 않은가.
+### 출발하기도 전에 지쳐버릴 것 같다.
+그제 밤에 조용하던 고등학교 녀석들 채팅방에 메시지 여럿 떴다.
+제일 마음 깊이 터 놓을 수 있는 친구들인데 그래서인지 채팅방은 더 조심스러웠던 것 같다.
+아무튼 서로 퇴근에 관해서 얘기 중이고 퇴근은 아직인 상태였다.
+밤 11시.
+나는 아이들을 재우고 부동산 사이트를 뒤져보고 있었다.
+물론 전임의를 지금까지 하고 있던 상태라면 친구들보다 더 늦게까지 병원 한 구석에 앉아 졸며, 논문 쓰며를 반복하고 있을지 모른다.
+근무 수당과는 관계없이.
+지금이야 일하는 것과 근무 수당을 따지는 일이 당연하지만 그 때는 누가 상관하랴.
+친구들도 물론 지금은 초과 근무 수당을 고려하겠지만, 탄력 근무제라는 이름으로, 편의를 봐준다는 이름으로 불규칙적인 생활을 하고 있다.
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
+다시 돌아와 친구들은 인터넷 기사에 뜬 LG 연구원 자살 사건에 대해서 잠깐 언급하고 퇴근 이야기로 바로 넘어간 상태였다.
+나도 요즘 한창 감기를 앓고 나서 몸이 쉽사리 회복되지 않아 힘든 차에 친구들은 더 힘들 수 있겠다는 생각이 들었다.
+대학교를 입학하고 나서는 각각 다른 학교임에도 서로의 집을 돌아다니면서 먹고 놀고 자고, 당시의 일인 공부는 뒷전이었던 우리들이었다. 
+> */뭐 나중에 알아서 되겠지.../*
+물론 사회가 알아서 우리를 지금의 자리로 배치 시켜줬다.
+아이들과 아내를 이끄는 */가장/*으로
+우린 출발도 하기 전에 가족이라는 족쇠(?)-오해의 여지는 있지만 솔직한 지금의 심정-에 묶이고 말았다.
+가정을 꾸리기 전에는 사회생활이라는 어떤 '대회'를 
 
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
 
-## Forage occaecat cardigan qui
 
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
 
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
+#글쓰기
 
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
-
-[^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
