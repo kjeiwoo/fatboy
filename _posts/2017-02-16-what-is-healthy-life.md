@@ -5,7 +5,6 @@ excerpt: "지금까지, 거의 40년간 준비만 해온 인생"
 categories: [paragraph, feature photo]
 author: fatboy
 comments: true
-image:
 ---
 
 # 지금 내가 해야할 것, 준비?
